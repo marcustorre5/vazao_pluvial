@@ -1,0 +1,28 @@
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\bin\Debug\net8.0\vazao.exe
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\bin\Debug\net8.0\vazao.deps.json
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\bin\Debug\net8.0\vazao.runtimeconfig.json
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\bin\Debug\net8.0\vazao.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\bin\Debug\net8.0\vazao.pdb
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.AssemblyInfoInputs.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.AssemblyInfo.cs
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.csproj.CoreCompileInputs.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\refint\vazao.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.pdb
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\vazao.genruntimeconfig.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\p\c\vazao\obj\Debug\net8.0\ref\vazao.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\bin\Debug\net8.0\vazao.exe
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\bin\Debug\net8.0\vazao.deps.json
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\bin\Debug\net8.0\vazao.runtimeconfig.json
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\bin\Debug\net8.0\vazao.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\bin\Debug\net8.0\vazao.pdb
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.AssemblyInfoInputs.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.AssemblyInfo.cs
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.csproj.CoreCompileInputs.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\refint\vazao.dll
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.pdb
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\vazao.genruntimeconfig.cache
+C:\Users\SSD2\Desktop\t.i\c#\programas\vazao\obj\Debug\net8.0\ref\vazao.dll
